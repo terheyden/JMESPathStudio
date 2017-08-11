@@ -6,10 +6,10 @@ JMESPath implementation and provides a Swing UI for testing [JMESPath expression
 ## Hello JMESPath
 
 All the JMESPath-related code is contained in
-[JMESUtil.java](https://github.com/terheyden/JMESPathStudio/src/main/java/com/terheyden/jmespathstudio/ui/JMESUtil.java) - it's a nice wrapper
+[JMESUtil.java](https://github.com/terheyden/JMESPathStudio/blob/master/src/main/java/com/terheyden/jmespathstudio/ui/JMESUtil.java) - it's a nice wrapper
 around the canonical `io.burt` implementation.
 
-Usage is in [MainUI.java](https://github.com/terheyden/JMESPathStudio/src/main/java/com/terheyden/jmespathstudio/ui/MainUI.java).
+Usage is in [MainUI.java](https://github.com/terheyden/JMESPathStudio/blob/master/src/main/java/com/terheyden/jmespathstudio/ui/MainUI.java).
 
 ## Running JMESPath Studio
 
